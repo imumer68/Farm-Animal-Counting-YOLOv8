@@ -10,7 +10,7 @@ This repository contains a Streamlit application that utilizes the YOLOv8 model 
 ## Installation  🔧
 1. Clone the repository:
 ```sh
-git clone https://github.com/imumer68/farm-animal-counting-yolov8.git
+git clone https://github.com/imumer68/Farm-Animal-Counting-YOLOv8
 ```
 2. Install the required packages:
 ```sh
