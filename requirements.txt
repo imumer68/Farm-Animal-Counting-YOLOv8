@@ -2,5 +2,5 @@ streamlit
 ultralytics
 opencv-python
 numpy
-pillow>
+pillow
 tempfile
